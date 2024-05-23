@@ -1,0 +1,7 @@
+rdf:Property	rdf:Property	0.13667053826501419
+http://dbkwik.webdatacommons.org/starwars.wikia.com/class/mmo	http://dbkwik.webdatacommons.org/swtor.wikia.com/class/media	0.2499999999999909
+http://dbkwik.webdatacommons.org/starwars.wikia.com/class/relatedcategories	owl:Thing	0.2857142853227026
+http://dbkwik.webdatacommons.org/starwars.wikia.com/class/relatedcategories	http://dbkwik.webdatacommons.org/swtor.wikia.com/class/wookieepedia	0.14285714285711903
+http://dbkwik.webdatacommons.org/starwars.wikia.com/class/website	http://dbkwik.webdatacommons.org/swtor.wikia.com/class/wookieepedia	0.25
+http://dbkwik.webdatacommons.org/starwars.wikia.com/class/game_reviews	http://dbkwik.webdatacommons.org/swtor.wikia.com/class/media	0.5
+http://dbkwik.webdatacommons.org/starwars.wikia.com/class/graalcite	owl:Thing	0.49999999992859023
